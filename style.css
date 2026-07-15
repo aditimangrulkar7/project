@@ -7,8 +7,8 @@ P {
   }
 
   button{
-    color:white;
-    background-color:black;
+    color:black;
+    background-color:rgb(00, 255, 00);
   }
 
   body{
@@ -18,4 +18,11 @@ P {
 
   div{
     color:red;
+  }  
+  p{
+    heading{
+        text-align:center;
+    }
+    color:black;
+    text-align:center;
   }
