@@ -1,35 +1,11 @@
-h1{
-background-color:yellow;
+div{
+    color:white;
+    background-color:black;
 }
 
-P {
-    color:blue;
-  }
+a{
+    margin:9
+    0px;
+}
 
-  button{
-    color:black;
-    background-color:rgb(00, 255, 00);
-  }
-
-  body{
-    background-color:rgb(255, 255, 255);
-  }
-
-
-  div{
-    color:red;
-  }  
-  p{
-    line-height:20px;
-    color:black;
-    text-align:start;
-  }
-  div{
-    width: 100px;
-    height:100px;
-    background-color:yellow;
-    border:2px solid black;
-    border-radius:100%;
-    text-align:center;
-    text: padding-bottom:80px;
-  }
+  
