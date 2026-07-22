@@ -9,14 +9,28 @@ box-sizing:border-box;
     min-height: 100Vh;
     border: 20px solid #1d1e4c;
 }
-
 .content{
    max-width:900px;
    margin:0 auto;
 }
+.top_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
 
-.image_container,
+.content h1,
+.content h3{
+    margin: 400;
+    text-align:start;
+}
+
 img{
+    margin-right:600px ;
+    padding-top: 350;
     width:300px;
-    height:320px;
+    height:400px;
+    border-radius:120px;
+    
 }
